@@ -3,7 +3,7 @@
 
 ![MyNanoGPT](assets/transformers.jpeg)
 
-Baseado no projeto nanoGPT de Andrej karpathy [nanoGPT] (https://github.com/karpathy/nanoGPT), como parte da disciplina de IA Generativa ministado pelo Prof. Baldoino Fonseca [Baldo](https://github.com/baldoinofonseca/baldoinofonseca.github.io) do meu Mestrado do Intituto de Computação da UFAL [IC-UFAL](https://ic.ufal.br/pt-br). O MyNanoGPT consta de um repositório simples e rápido em linguagem Python para treinamento/ajuste de GPTs de pequeno e médio porte. No caso do MyNanoGPT, é um fork do nanoGPT usado para estudo do modelo Transformers (rede neural de aprendizado de contexto)
+Baseado no projeto  [nanoGPT](https://github.com/karpathy/nanoGPT) de Andrej karpathy, como parte da disciplina de IA Generativa ministado pelo Prof. [Baldoino Fonseca](https://github.com/baldoinofonseca/baldoinofonseca.github.io) do meu Mestrado do Intituto de Computação da [UFAL](https://ic.ufal.br/pt-br). O MyNanoGPT consta de um repositório simples e rápido em linguagem Python para treinamento/ajuste de GPTs de pequeno e médio porte. No caso do MyNanoGPT, é um fork do nanoGPT usado para estudo do modelo Transformers (rede neural de aprendizado de contexto)
 
 O treinamento é realizado por um código simples e legível: `train.py` que realiza um loop de treinamento padrão. O código foi ajustado para executar em um MacBook com processador M2 com 8 núcleos de CPU e 10 núcleos de GPU. No meu caso não há suporte a CUDA (apenas MPS), porém pode ser configurado caso seu sistema tenha suporte.
 
