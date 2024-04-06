@@ -64,3 +64,15 @@ instante e de bom torpe e modo sobre uma frase, entre ele o anarquista mole da f
 ```
 
 E é isso... 🤩 
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jptn-ufal&show_icons=true&locale=en&layout=compact" alt="jptn-ufal" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jptn-ufal&show_icons=true&locale=en" alt="jptn-ufal" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jptn-ufal&" alt="jptn-ufal" /></p>
+
+<p align="left"> <a href="https://twitter.com/jptneumann" target="blank"><img src="https://img.shields.io/twitter/follow/jptneumann?logo=twitter&style=for-the-badge" alt="jptneumann" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jptn-ufal&label=Profile%20views&color=0e75b6&style=flat" alt="jptn-ufal" /> </p>
+
