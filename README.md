@@ -1,4 +1,4 @@
-<p align="left"> <a href="https://twitter.com/jptneumann" target="blank"><img src="https://img.shields.io/twitter/follow/jptneumann?logo=twitter&style=for-the-badge" alt="jptneumann" /></a>   <img src="https://komarev.com/ghpvc/?username=jptn-ufal&label=Profile%20views&color=0e75b6&style=flat" alt="jptn-ufal" /> </p>
+<p align="left"> <a href="https://twitter.com/jpneumann" target="blank"><img src="https://img.shields.io/twitter/follow/jpneumann?logo=twitter&style=for-the-badge" alt="jpneumann" /></a>   <img src="https://komarev.com/ghpvc/?username=jptn-ufal&label=Profile%20views&color=0e75b6&style=flat" alt="jptn-ufal" /> </p>
 
 # MyNanoGPT - Modelo Transformers
 
