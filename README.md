@@ -71,5 +71,5 @@ E é isso... 🤩
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jptn-ufal&show_icons=true&locale=en" alt="jptn-ufal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jptn-ufal&" alt="jptn-ufal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jptn-ufal&ocale=pt_BR" alt="jptn-ufal" /></p>
 
